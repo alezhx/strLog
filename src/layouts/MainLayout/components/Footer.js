@@ -17,10 +17,10 @@ const Footer = () => {
         &copy;{' '}2020 All rights reserved.{' '}
         <Link
           component='a'
-          href='https://portal.mdland.com/'
+          href='https://google.com/'
           target='_blank'
         >
-          MDLand International Corp
+          Rice4Lyfe
         </Link>
         .
       </Typography>

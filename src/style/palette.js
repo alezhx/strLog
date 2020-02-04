@@ -1,6 +1,6 @@
 export default {
   primary: {
-      main: '#05A7E3',  // rgba(5, 167, 227, 1)
+      main: '#00e676',  // rgba(5, 167, 227, 1)
       secondary: '#FF3B30'
   },
   secondary: {
